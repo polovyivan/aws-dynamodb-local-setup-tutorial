@@ -1,4 +1,8 @@
-# aws-dynamodb-local-setup-tutorial
+<p align="center">
+  <img width="460" height="300" src="https://miro.medium.com/max/1400/1*u7O7aRurf2VdORCanc55Fg.png">
+</p>
+
+<h1 align="center"><a href="https://aws.plainenglish.io/run-aws-dynamodb-locally-2788ad73c4db">Run AWS DynamoDB Locally</a></h1>
 
 Commands to access Dynamo DB
 
